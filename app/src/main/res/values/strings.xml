@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejercicio9</string>
+    <string name="main_title">SumayResta</string>
+    <string name="main_rb_add">Suma</string>
+    <string name="main_rb_subtract">Resta</string>
+    <string name="main_button">Resultado</string>
+
+
+
+</resources>
